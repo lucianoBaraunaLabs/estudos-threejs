@@ -1,5 +1,7 @@
 # Estudos-threejs
 
-Estudos documentação Threejs
+Site documentação.
 
-https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
+https://threejs.org/
+
+[Tutorial Youtube - CJ Gammon](https://www.youtube.com/playlist?list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf)
