@@ -42,7 +42,7 @@ var light1 = new THREE.PointLight(0xffffff, 0.5)
 scene.add(light1)
 ````
 
-#### OBJECT
+#### OBJECT`
 ```
 var geometry =  new THREE.BoxGeometry(100, 100, 100); // Criando o cubo
 
